@@ -1,0 +1,11 @@
+title,description,skills,category
+AI Resume Analyzer,Analyze resumes and match with job descriptions,python nlp ai career,ai
+GitHub Repo Analyzer,Analyze trending repositories and developer trends,python api data-analysis,developer
+Crypto Sentiment Analyzer,Analyze crypto news sentiment,python nlp finance crypto,finance
+Anime Recommendation Engine,Recommend anime using similarity algorithms,python recommendation pandas,entertainment
+Healthcare Diagnosis Predictor,Predict diseases based on symptoms,python machine-learning healthcare,health
+Study Planner AI,Generate personalized study plans using AI,python optimization ai education,education
+Climate Change Data Dashboard,Visualize climate change data trends,python dashboard visualization climate,data
+Sports Analytics Dashboard,Analyze sports player performance,python pandas analytics sports,data
+Startup Success Predictor,Predict startup success probability,python machine-learning finance startup,business
+Cybersecurity Threat Detector,Detect network anomalies using ML,python cybersecurity ai security,security
